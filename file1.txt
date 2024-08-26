@@ -1,1 +1,1 @@
-trigger pipeline1
+trigger pipeline2
